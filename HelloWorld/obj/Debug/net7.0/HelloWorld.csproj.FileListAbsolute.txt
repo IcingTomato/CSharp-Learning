@@ -1,0 +1,14 @@
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/bin/Debug/net7.0/HelloWorld
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/mnt/chromeos/MyFiles/Documents/CSharp/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
