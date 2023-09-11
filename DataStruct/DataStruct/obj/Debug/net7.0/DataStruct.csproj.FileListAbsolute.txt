@@ -1,0 +1,14 @@
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/DataStruct.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/DataStruct.AssemblyInfoInputs.cache
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/DataStruct.AssemblyInfo.cs
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/DataStruct.csproj.CoreCompileInputs.cache
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/DataStruct.dll
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/refint/DataStruct.dll
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/DataStruct.pdb
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/bin/Debug/net7.0/DataStruct
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/bin/Debug/net7.0/DataStruct.deps.json
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/bin/Debug/net7.0/DataStruct.runtimeconfig.json
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/bin/Debug/net7.0/DataStruct.dll
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/bin/Debug/net7.0/DataStruct.pdb
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/DataStruct.genruntimeconfig.cache
+/mnt/chromeos/MyFiles/Documents/CSharp/DataStruct/DataStruct/obj/Debug/net7.0/ref/DataStruct.dll
